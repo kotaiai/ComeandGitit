@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//HELLO GALAXY
 int main()
 {
     int firstNumber, secondNumber, sumOfTwoNumbers, diffOfTwoNumbers, prodOfTwoNumbers, quotOfTwoNumbers, modOfTwoNumbers;
@@ -26,3 +26,4 @@ int main()
     cout << endl << firstNumber << " % " <<  secondNumber << " = " << modOfTwoNumbers;
     return 0;
 }
+//HELLO GALAXY
