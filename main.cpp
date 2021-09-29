@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
     int firstNumber, secondNumber, sumOfTwoNumbers, diffOfTwoNumbers, prodOfTwoNumbers, quotOfTwoNumbers, modOfTwoNumbers;
+    cout<<"Danica B. Modino"<<endl;
 
     cout << "Enter first number: ";
     cin >> firstNumber;
